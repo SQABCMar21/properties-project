@@ -1,12 +1,13 @@
-#### Advanced Project
+#### Properties Project
 
-### April 20, 2016
+### April 27, 2016
 
-An advanced Structure for Maven Java Projects
+A Java project structure which uses a Properties file.
 
 * Git
 * Java 7
 * Maven
-* Testing Framework
+* JUnit
+* Properties
 
 [Jean-francois Nepton](http://sqasolution.com)
